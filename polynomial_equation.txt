@@ -1,0 +1,6 @@
+Temperature vs R/G Polynomial Calibration
+Selected degree: 1
+LOOCV RMSE: 36.383505 K
+R-squared on fitted data: 0.619563
+
+T = -372.12244 + 1119.1279 x^1
